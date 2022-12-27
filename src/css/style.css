@@ -363,7 +363,7 @@ body {
 }
 @media (max-width: 648px) {
   .contacts__request {
-    max-width: 253px;
+    max-width: 280px;
     margin-bottom: 65px;
   }
 }
